@@ -5,7 +5,9 @@ O projeto `data-pipeline-databricks` implementa um pipeline de dados utilizando 
 ## Estrutura do Projeto
 
 **Bronze:** Ingestão e armazenamento inicial dos dados brutos.
+
 **Silver:** Transformação e limpeza dos dados para análise.
+
 **Gold:** Agregação e preparação dos dados para relatórios e visualizações.
 
 ## Notebooks
