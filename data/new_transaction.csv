@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,currency,transaction_date
+2,1,160.00,USD,2021-02-15
+5,4,300.00,USD,2021-04-30
+6,5,350.00,USD,2021-05-10
+7,6,400.00,USD,2021-05-20
+8,1,50.00,USD,2021-05-25
