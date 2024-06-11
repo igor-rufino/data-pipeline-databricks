@@ -1,6 +1,6 @@
 # Projeto: Data Pipeline com Spark no Databricks
 
-O projeto `data-pipeline-databricks` implementa um pipeline de dados utilizando Apache Spark no ambiente Databricks. O pipeline é dividido em três etapas principais: processamento de dados brutos (Bronze), dados processados e limpos (Silver) e dados analíticos agregados (Gold). Cada etapa é gerenciada por um notebook Databricks específico.
+O projeto `data-pipeline-databricks` implementa um pipeline de dados utilizando Apache Spark no ambiente Databricks (no caso, foi utilizado o databricks community edition, versão gratuita da plataforma). O pipeline é dividido em três etapas principais: processamento de dados brutos (Bronze), dados processados e limpos (Silver) e dados analíticos agregados (Gold). Cada etapa é gerenciada por um notebook Databricks específico.
 
 ## Estrutura do Projeto
 
